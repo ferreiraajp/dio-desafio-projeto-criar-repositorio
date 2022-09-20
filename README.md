@@ -1,2 +1,2 @@
-# dio-desafio-projeto-criar-repositorio
-realizando desafio de projeto do bootcamp
+#  desafio de Projeto sobre Git/GitHub DIO
+Repositório criado para o desafio de projeto
