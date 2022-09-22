@@ -1,0 +1,17 @@
+Criando um repositório Git/Github na minha máquina 
+
+passo a passo
+
+-Abra o Git Bash e vá até a pasta onde está o projeto.
+
+-Para transformar a pasta em um repositório Git, digitar git init e dar enter
+
+-Quando utilizamos “git add”, enviamos o arquivo para o “staging area” (área de preparo),
+que significa que ele está sendo preparado para entrar na próxima revisão do repositório. 
+São as coisas que vão entrar no próximo commit.
+
+-Ao executar “git commit”, vamos pegar tudo que foi enviado com git add ao staging área
+e “tirar uma foto” do estado atual do projeto e registrar isso no nosso repositório local.
+
+- por fim, o comando “git push”, vai enviar essas alterações commitadas para o repositório remoto.
+
